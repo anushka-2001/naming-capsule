@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/naming-capsule/static/css/main.c7f6d806.chunk.css",
+    "main.js": "/naming-capsule/static/js/main.0afd6d40.chunk.js",
+    "main.js.map": "/naming-capsule/static/js/main.0afd6d40.chunk.js.map",
+    "runtime-main.js": "/naming-capsule/static/js/runtime-main.273562fa.js",
+    "runtime-main.js.map": "/naming-capsule/static/js/runtime-main.273562fa.js.map",
+    "static/js/2.2216d885.chunk.js": "/naming-capsule/static/js/2.2216d885.chunk.js",
+    "static/js/2.2216d885.chunk.js.map": "/naming-capsule/static/js/2.2216d885.chunk.js.map",
+    "static/js/3.03ac56ba.chunk.js": "/naming-capsule/static/js/3.03ac56ba.chunk.js",
+    "static/js/3.03ac56ba.chunk.js.map": "/naming-capsule/static/js/3.03ac56ba.chunk.js.map",
+    "index.html": "/naming-capsule/index.html",
+    "service-worker.js": "/naming-capsule/service-worker.js",
+    "service-worker.js.map": "/naming-capsule/service-worker.js.map",
+    "static/css/main.c7f6d806.chunk.css.map": "/naming-capsule/static/css/main.c7f6d806.chunk.css.map",
+    "static/js/2.2216d885.chunk.js.LICENSE.txt": "/naming-capsule/static/js/2.2216d885.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.273562fa.js",
+    "static/js/2.2216d885.chunk.js",
+    "static/css/main.c7f6d806.chunk.css",
+    "static/js/main.0afd6d40.chunk.js"
+  ]
+}
